@@ -9,4 +9,6 @@ public class SpringbootproperiesApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootproperiesApplication.class, args);
     }
+
+
 }
